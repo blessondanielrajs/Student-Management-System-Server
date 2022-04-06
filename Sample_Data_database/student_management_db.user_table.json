@@ -1,0 +1,50 @@
+{ 
+    "_id" : NumberInt(1), 
+    "first_name" : "BLESSONDANIELRAJ", 
+    "last_name" : "S", 
+    "email" : "blessondanielraj.s@gmail.com", 
+    "dob" : NumberInt(1649267645), 
+    "education" : "maths", 
+    "location" : "natham ", 
+    "details" : "mern stack"
+}
+{ 
+    "_id" : NumberInt(2), 
+    "first_name" : "rajesh", 
+    "last_name" : "M", 
+    "email" : "rajesh@gmail.com", 
+    "dob" : NumberInt(1649181363), 
+    "education" : "computer", 
+    "location" : "madurai", 
+    "details" : "java"
+}
+{ 
+    "_id" : NumberInt(3), 
+    "first_name" : "sathya", 
+    "last_name" : "sathya", 
+    "email" : "sathya@gmail.com", 
+    "dob" : NumberInt(1649699827), 
+    "education" : "BCA", 
+    "location" : "tanjore", 
+    "details" : "python"
+}
+{ 
+    "_id" : NumberInt(4), 
+    "first_name" : "madhava", 
+    "last_name" : "J", 
+    "email" : "madhava@gmail.com", 
+    "dob" : NumberInt(1650218263), 
+    "education" : "physics", 
+    "location" : "tanjore", 
+    "details" : "R program"
+}
+{ 
+    "_id" : NumberInt(5), 
+    "first_name" : "krishna", 
+    "last_name" : "K", 
+    "email" : "krishana@gmail.com", 
+    "dob" : NumberInt(1649786309), 
+    "education" : "english", 
+    "location" : "erode", 
+    "details" : "CPP"
+}
